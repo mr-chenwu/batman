@@ -153,5 +153,13 @@ http://b1batman.qicp.vip:8066/udp/239.45.0.4:5140
 http://b1batman.qicp.vip:8066/udp/239.45.3.178:5140
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视HD
 http://b1batman.qicp.vip:8066/udp/239.45.1.84:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",足球频道HD
-http://b1batman.qicp.vip:8066/udp/239.45.3.22:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕体育1
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕体育2
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕体育3
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕体育4
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕体育5
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
